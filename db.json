@@ -1,0 +1,15 @@
+{
+"portfolio" : [{
+  "id": 1,
+  "title": "Sniper 2D",
+  "description": "I became a animator to create a animation 2D on the project with Pencil 2D"
+}, {
+  "id": 2,
+  "title": "Typography",
+  "description": "I became a animator to create a typography animation on the project with Adobe After Effect"
+}, {
+  "id": 3,
+  "title": "SmartEco",
+  "description": "I became a designer to create a poster on the project with Inkscape"
+}]
+}
